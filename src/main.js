@@ -2,11 +2,12 @@ import "./styles.css";
 
 const app = document.querySelector("#app");
 
+const steps = [
   {
     title: "Author Information",
     detail: "Gecolea, Janine Q."
   }
-  
+];
 
 const commands = [
   "node -v",
