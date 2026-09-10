@@ -2,13 +2,11 @@ import "./styles.css";
 
 const app = document.querySelector("#app");
 
-const steps = [
   {
     title: "Author Information",
-    detail: "Gecolea, Janine Q.."
+    detail: "Gecolea, Janine Q."
   }
   
-];
 
 const commands = [
   "node -v",
@@ -47,8 +45,7 @@ app.innerHTML = `
             Welcome to my Lab 03.02
           </h1>
           <p class="mt-5 max-w-2xl text-base leading-7 text-zinc-700">
-            A static professional-style web app for practicing first-time project setup, modern frontend tooling,
-            folder-based Git commits, branches, pushes, and merges.
+            I poured my blood, sweat, and tears into making this, so please don't bash it..
           </p>
           <div class="mt-6 flex flex-wrap gap-3">
             <span class="rounded-full bg-emerald-50 px-4 py-2 text-sm font-medium text-emerald-800 ring-1 ring-emerald-200">Node.js</span>
