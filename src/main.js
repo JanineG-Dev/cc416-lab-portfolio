@@ -55,7 +55,7 @@ app.innerHTML = `
         <div>
           <p class="text-sm font-semibold uppercase text-teal-700">CC416 Application Development</p>
           <h1 class="mt-3 max-w-3xl text-4xl font-bold text-zinc-950 md:text-5xl">
-            Lab 03.02: Setup, Vite, Tailwind, and GitHub Workflow
+            Welcome to my Lab 03.02
           </h1>
           <p class="mt-5 max-w-2xl text-base leading-7 text-zinc-700">
             A static professional-style web app for practicing first-time project setup, modern frontend tooling,
